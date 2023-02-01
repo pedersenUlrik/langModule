@@ -7,4 +7,4 @@ git mv "navn.x" "nyttNavn.x" //Endrer navnet
 ---Lagring og sending til GitHub:---
 git add . //"Stage" ALT for commiting.
 git commit -m "..." //Fullfør comitten.
-git push -u origin master //Sender til GitHub
+git push -u origin master //Sender til GitHub.
